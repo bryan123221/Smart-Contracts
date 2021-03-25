@@ -1,4 +1,4 @@
-# Smart-Contracts
+# Smart Contracts, SUNY Buffalo MOOC
 
 The following is from the SUNY Buffalo Coursera course on Blockchains. This particular task will aim to create a smart contract for a penny social.
 Problem Statement:
